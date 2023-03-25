@@ -11,7 +11,7 @@
     <groupId>com.portfolio</groupId>
     <artifactId>lnm</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lnm.Produccion</name>
+    <name>lnm</name>
     <description>Portfolio de Leandro Moyano</description>
     <properties>
         <java.version>1.8</java.version>
